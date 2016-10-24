@@ -1,8 +1,8 @@
 #Use case 11 - Equip Weapon
-**Actor: Player**
 
-**Level1: User Goal**
 
-**Description:** The Player will choose what weapon to equip from there inventory of available weapons. The player can only equip one weapon at a time, and can only equip weapons that are available to them and that they own and have in their inventory.
+**Description:** If the Player does not have a weapon equipped the player can view the weapons that they own and are able to equip. The player will then have the the option to equip a weapon of there choice that is present in there inventory.
 
+**Alternate Route:** If the player gains/buys a new weapon they have the choice to equip the weapon straight away.
+ 
 **Author: Daryn Loughlin**
